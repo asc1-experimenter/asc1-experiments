@@ -2,7 +2,7 @@
 
 #### Close a Contract Account
 
-We have previously created a contract account as shown [here]().
+We have previously created a contract account as shown [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/account/create_random_address.md).
 This is the address of our contract accont.
 
 ```
@@ -45,7 +45,7 @@ algorand@b89f2bc2d65b:/opt/algorand/node$ goal account balance -a HQALLYAILGTWTD
 algorand@b89f2bc2d65b:/opt/algorand/node$
 ```
 
-Once the contract account is closed, we can still send new transaction from a different account to the closed contract account. We used the previous code deployed [here](). Be aware to modify the receiver and the passphrase.
+Once the contract account is closed, we can still send new transaction from a different account to the closed contract account. Be aware to modify the receiver and the passphrase.
 
 [Algorand's Doc - Using SDKs with Stateless Smart Contracts](https://developer.algorand.org/docs/features/asc1/stateless/sdks/) 
 
