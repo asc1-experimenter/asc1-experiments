@@ -4,7 +4,7 @@
 
 This is the process to recover an account.
 
-We have previously created an account funded with 100 Algos. Then, we deleted the account following the same procedure as described [here]().
+We have previously created an account funded with 100 Algos. Then, we deleted the account following the same procedure as described [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/account/delete.md#delete_account).
 
 To recover the previously deleted account we need to start recovering the wallet by typing ```./goal wallet new newWallet -r```. Then, you will need to prompt your recovery mnemonic and choose a password.
 
