@@ -53,7 +53,7 @@ algorand@d414f5a29fd9:/opt/algorand/node$ goal account balance -a CGAYBPJZPD4FZT
 100000000 microAlgos
 ```
 
-We created two new accounts that will be used as sender and receiver for the transaction. To create an account we can use the tool [here]().
+We created two new accounts that will be used as sender and receiver for the transaction. To create an account we can use the tool [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/account/client_nodejs/create.js).
 
 ```
 Address 1: OLMPFYFQAQ2NWEUQJ4SA5IB3AGFVMYM74XMH5RVZ4AE5I65K3FZW5KCWRY
