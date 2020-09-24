@@ -4,7 +4,7 @@
 
 Before starting this tutorial, there are some important premises that need to be made.
 
-We previously created a contract account following the instruction showed [here](). Then, we closed the account as explained [here]().
+We previously created a contract account following the instruction showed [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/smart_contract/create_contract_account.md#create_contract_account). Then, we closed the account as explained [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/smart_contract/close_contract_account.md#close_contract_account).
 
 We defined the same private key of 73 letters
 
@@ -20,7 +20,7 @@ G/Pk8y3Rzy9eyowgCdx+NREYyIxYR4BeFuTpMESfz10=
 PS sandbox> 
 ```
 
-We wrote and compiled the program as described [here]().
+We wrote and compiled the program as described [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/smart_contract/create_contract_account.md#create_contract_account).
 
 ```
 algorand@b89f2bc2d65b:/opt/algorand/node$ cat sample.teal
