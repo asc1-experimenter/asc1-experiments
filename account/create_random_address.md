@@ -21,7 +21,7 @@ When we try to fund this address using the algorand faucet located [here](https:
 
 ![alt text for screen readers](images/fund_failed.PNG "Fund Failed")
 
-Using the javascript client provided [here](), we sent a transaction from the first (well-formed) address to the malformed address. 
+Using the javascript client provided [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/transactions/client_nodejs/send.js), we sent a transaction from the first (well-formed) address to the malformed address. 
 
 The transaction fails and no Algos are send to the receiver, but the sender needs to pay fees.
 
