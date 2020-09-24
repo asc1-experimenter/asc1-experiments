@@ -2,7 +2,7 @@
 
 #### Creating the same Contract Account
 
-We run two different nodes on the Algorand Testnet. Both nodes compile the same script. For this task we created two contract accounts following the instruction showed [here]().
+We run two different nodes on the Algorand Testnet. Both nodes compile the same script. For this task we created two contract accounts following the instruction showed [here](https://github.com/asc1-experimenter/asc1-experiments/blob/master/smart_contract/create_contract_account.md#create_contract_account).
 
 The process of compiling the script leads to the same account address.
 
